@@ -1,3 +1,3 @@
 # hello-github
 hello github Description 
-I am chiming
+i am chiming
